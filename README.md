@@ -3,6 +3,8 @@
 # Slimefun-Resource-Pack
 ## 本资源转自 [GuizhanCraft 鬼斩粘液科技资源包](https://ybw0014.net/post/guizhancraft-resource-pack)，著作权归作者所有
 
+Looking for English version? [Click here](https://github.com/SolitudeSun/Slimefun-Resource-Pack/blob/main/README_EN.md)
+
 如果你想向朋友推荐本资源包，你可以使用以下链接：
 ```
 https://50l.cc/SfResPack
