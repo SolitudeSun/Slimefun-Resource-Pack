@@ -62,7 +62,30 @@ Now use the resource pack, and you are all set.
 
 ### Changelog
 ```
-I'm lazy to write changelog in English. No.
+2.1 (2022-05-26)
+Added Bump's bow material (from haiman233, DragonMysterious)
+
+2.0 (2022-05-21)
+Changed version naming rules, no longer use single number as version number
+Added Bump textures (except for the bow) (from haiman233)
+
+v9 (2022-04-03)
+Fixed the problem of incorrect display when creatures hold golden swords
+Added materials corresponding to the new plants in the Chinese version of Exotic Garden (from haiman233)
+Added materials for some of the weapons/tools material upgrades
+Replace the material of the amulet with the material of SlimyBiscuit (from RYHN12)
+
+v8 (2021-11-12)
+Fix the problem of missing materials for some items.
+
+v7 (2021-11-08)
+Added textures for some items in SlimeTinker, SlimeTreeTaps.
+
+v2 - v6
+Based on roracle's SF-resources.
+
+v1
+https://github.com/roracle/SF-resources
 ```
 
 ### Disclaimer & License
