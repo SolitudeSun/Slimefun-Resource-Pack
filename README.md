@@ -5,6 +5,10 @@
 
 Looking for English version? [Click here](https://github.com/SolitudeSun/Slimefun-Resource-Pack/blob/main/README_EN.md)
 
+> 本资源包已不再维护。 <br>
+> Mojang在1.19.3更改了资源包的结构，因此本资源包仅适用于1.14-1.19.2。 <br>
+> 如果你想使用支持1.19.3或更高版本的粘液资源包，可以看看[这个](https://github.com/xMikux/Slimefun-Resourcepack/blob/main/.github/README.zh-tw.md)。
+
 如果你想向朋友推荐本资源包，你可以使用以下链接：
 ```
 https://50l.cc/SfResPack
@@ -42,10 +46,8 @@ https://50l.cc/SfResPack
 剩余材质为自制或从互联网中搜集。
 
 ### 下载
-> 最新版本: 2.1
-> 
-> 更新日期: 2022-05-26
-> 
+> 最新版本: 2.1 <br>
+> 更新日期: 2022-05-26 <br>
 > [点此下载](https://ybw0014.net/go/respack)
 
 ### 使用
