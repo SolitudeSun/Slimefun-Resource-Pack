@@ -44,10 +44,8 @@ This resource pack contains resources and textures collected from the Internet:
 Some textures are self-made.
 
 ### Download
-> Latest version: 2.1
-> 
-> Date of update: 2022-05-26
-> 
+> Latest version: 2.1 <br>
+> Date of update: 2022-05-26 <br>
 > [Click to download](https://ybw0014.net/go/respack)
 
 ### Usage
