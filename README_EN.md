@@ -6,8 +6,11 @@
 中文版本？[点击这里](https://github.com/SolitudeSun/Slimefun-Resource-Pack/blob/main/README.md)
 
 > This resource pack is no longer maintained. <br>
-> Mojang changed the structure of the resource pack in 1.19.3, so this resource pack only applies to 1.14-1.19.2. <br>
-> If you want to use a slime resource pack that supports 1.19.3 or later, check out [Slime Tech Resource Pack by xMikux](https://github.com/xMikux/Slimefun-Resourcepack/blob/main/.github/README.md), which also supports IA materials.
+> Mojang changed resource pack structure in 1.19.3, so this resource pack only supports 1.14-1.19.2. <br>
+> If you want a resource pack that supports 1.19.3 or higher version, you may want to have a look at [Slimefun Resource Pack made by xMikux](https://github.com/xMikux/Slimefun-Resourcepack/blob/main/.github/README.md), which also supports IA materials.
+
+
+
 
 If you want to recommend this resource pack to others, send them this link：
 ```
