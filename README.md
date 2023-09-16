@@ -7,7 +7,7 @@ Looking for English version? [Click here](https://github.com/SolitudeSun/Slimefu
 
 > 本资源包已不再维护。 <br>
 > Mojang在1.19.3更改了资源包的结构，因此本资源包仅适用于1.14-1.19.2。 <br>
-> 如果你想使用支持1.19.3或更高版本的粘液资源包，可以看看[这个](https://github.com/xMikux/Slimefun-Resourcepack/blob/main/.github/README.zh-tw.md)。
+> 如果你想使用支持1.19.3或更高版本的粘液资源包，可以看看[由xMikux制作的粘液科技资源包](https://github.com/xMikux/Slimefun-Resourcepack/blob/main/.github/README.zh-cn.md)，同时支持IA材质。
 
 如果你想向朋友推荐本资源包，你可以使用以下链接：
 ```
